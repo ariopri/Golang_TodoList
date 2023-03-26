@@ -1,11 +1,9 @@
-import React from 'react';
+import Page from "./page/Page";
 
+function App() {  
 
-function App() {
   return (
-    <div className="App">
-     Hello World
-    </div>
+    <Page />
   );
 }
 
